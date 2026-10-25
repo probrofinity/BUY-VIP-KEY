@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "key_id": "PROBRO-DEMO-001",
+      "username": "DEMO USER",
+      "type": "7_days",
+      "created_at": 0,
+      "expires_at": 0,
+      "device_id": "",
+      "active": false,
+      "revoked": false
+    }
+  ]
+}
