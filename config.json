@@ -1,0 +1,15 @@
+{
+  "app_name": "Probrofinity",
+  "system_name": "Probrofinity VIP System",
+  "enabled": true,
+  "maintenance": false,
+  "version": 1,
+  "get_key_url": "",
+  "telegram_url": "",
+  "supported_key_types": [
+    "7_days",
+    "30_days",
+    "lifetime"
+  ],
+  "offline_grace_hours": 24
+}
